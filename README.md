@@ -64,12 +64,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Haris Shaikh]
 - LinkedIn - [@linkedin-compilerharris](https://www.linkedin.com/in/compilerharris)
 - Medium - [@medium-compilerharris](https://medium.com/@compilerharris)
-<!-- - Website - [https://nestjs.com](https://nestjs.com/) -->
 - Twitter - [@compilerharris](https://twitter.com/compilerharris)
 
-## License
+## Author
 
-[MIT licensed](LICENSE).
+Haris Shaikh.
